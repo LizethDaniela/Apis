@@ -68,6 +68,7 @@ export const authLogoutAsync = () => {
     };
 };*/
 
+//haciendo pruebas de git
 export const auth = (token) => {
     return {
         type: types.authLogin,
